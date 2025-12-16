@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/metadata-fetcher-service-7801-7815/fetch_metadata_frontend"
+}
